@@ -43,9 +43,6 @@ Requisitos:
        - Convertir de Yen Japonés a la moneda de tu país
        - Convertir de Won sul-coreano a la moneda de tu país
 
-## Uso
-
-
 ## Estructura del proyecto
 
 Dentro de la carpeta [source](/src) están los archivos del programa. La organización y función de ellos es la siguiente:
@@ -60,8 +57,7 @@ Dentro de la carpeta [source](/src) están los archivos del programa. La organiz
 
 En la carpeta [bin](/bin/) se encuentra el bytecode generado por el programa.
  
-<details>
-<summary>Tecnologias Usadas en este Challenge</summary>
+<summary align="center">Tecnologias Usadas en este Challenge</summary>
 
 | Herramientas | Languages |
 |-----:|-----------|
@@ -69,8 +65,5 @@ En la carpeta [bin](/bin/) se encuentra el bytecode generado por el programa.
 |  IntelliJ IDEA | Spring |
 |                |        |
 
-</details>
-
 <p align="center" dir="auto">
 <img align="center" src="https://skills.thijs.gg/icons?i=java,idea,git,spring" />
-</p>## Java-Conversor
