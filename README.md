@@ -9,7 +9,7 @@
 El conversor de divisas es un reto propuesto por el programa [Oracle Next Education] 
 (https://www.oracle.com/cl/education/oracle-next-education/) en conjunto con [Alura Latam](https://www.aluracursos.com/), para aplicar los conocimientos adquiridos durante los cursos de Java.
 
-##Reglas
+## Reglas
 Las características solicitadas por nuestro cliente son las siguientes:
 
 Este cuadro de dialogo debe permitir al usuario escoger entre las opciones de conversión, según los requisitos solo es necesario hacer un conversor de moneda pero en caso que desees implementar otras funciones en la foto anexada podemos ver una opción de menú con otras funciones.
@@ -73,4 +73,4 @@ En la carpeta [bin](/bin/) se encuentra el bytecode generado por el programa.
 
 <p align="center" dir="auto">
 <img align="center" src="https://skills.thijs.gg/icons?i=java,idea,git,spring" />
-</p># Java-Conversor
+</p>## Java-Conversor
