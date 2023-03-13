@@ -59,11 +59,11 @@ En la carpeta [bin](/bin/) se encuentra el bytecode generado por el programa.
  
 <summary align="center">Tecnologias Usadas en este Challenge</summary>
 
-| Herramientas | Languages |
-|-----:|-----------|
-|  Windows 11    | Java   |
-|  IntelliJ IDEA | Spring |
-|                |        |
+                                                 | Herramientas | Languages |
+                                                 |-----:|-----------|
+                                                 |  Windows 11    | Java   |
+                                                 |  IntelliJ IDEA | Spring |
+                                                 |                |        |
 
 <p align="center" dir="auto">
 <img align="center" src="https://skills.thijs.gg/icons?i=java,idea,git,spring" />
